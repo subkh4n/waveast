@@ -1,0 +1,16 @@
+body {
+  background-color: blueviolet;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.carousel-item .carousel-caption h5 p {
+  color: black !important;
+}
+
+.carousel-item img {
+  height: 50vh !important;
+  align-content: center;
+}
