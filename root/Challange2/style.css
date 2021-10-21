@@ -2,3 +2,25 @@ h1 {
   color: orange;
   font-size: 38px;
 }
+
+@media (min-width: 576px) {
+  .row .col-md-12 img {
+    margin-bottom: 15px;
+  }
+
+  p {
+    font-size: small;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 115px) {
+  .row .col-md-12 img {
+    margin-bottom: 15px;
+  }
+
+  p {
+    font-size: small;
+    font-weight: bold;
+  }
+}
