@@ -1,0 +1,22 @@
+.header {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.grid {
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+}
+
+.mole {
+    background-color: salmon;
+}

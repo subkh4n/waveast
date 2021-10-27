@@ -1,0 +1,16 @@
+body {
+  font-family: 'Righteous', cursive;
+}
+
+.fixed-header {
+  background-color: #ef5350;
+  padding: 8px;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+  top: 0;
+}
+
+.card-custom {
+ width: 200px;
+}
